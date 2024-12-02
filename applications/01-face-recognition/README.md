@@ -49,3 +49,11 @@ deactivate
 We will use an OpenCV tutorial for detecting objects with Haar Cascades. You can find more details at the link below:
 [Face Detection using Haar Cascade](./docs/face_detection_using_haar_cascade.md)
 
+
+
+## Run
+
+To run the code, execute the following command:
+```
+python face_detect.py
+```
