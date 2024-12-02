@@ -43,4 +43,9 @@ When done, run:
 ```
 deactivate
 ```
-test
+
+## Concepts
+
+We will use an OpenCV tutorial for detecting objects with Haar Cascades. You can find more details at the link below:
+https://docs.opencv.org/4.x/d2/d99/tutorial_js_face_detection.html
+
