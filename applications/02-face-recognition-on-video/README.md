@@ -62,7 +62,4 @@ python video_face_detection.py
 
 After running the code, you should see a window displaying the video feed from your webcam with detected faces highlighted by rectangles. Below is a sample output video demonstrating the face recognition in action:
 
-<video width="640" height="360" controls>
-  <source src="output/sample_output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video preview](output/sample_output.gif)
