@@ -57,3 +57,11 @@ To run the code, execute the following command:
 ```
 python face_detect.py
 ```
+
+
+### Output
+
+Below are some sample outputs from the face recognition application:
+
+<img src="output/images/processed_Ashwin%20Santiago.png" alt="Alt text" width="100" height="100">
+<img src="output/images/processed_Ayah%20Wilkinson.png" alt="Alt text" width="100" height="100">
